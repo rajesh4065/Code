@@ -1,0 +1,17 @@
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.deps.json
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.dll
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.pdb
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.csprojAssemblyReference.cache
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.AssemblyInfoInputs.cache
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.AssemblyInfo.cs
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.dll
+C:\Users\rajesh.aelem.WARP\source\repos\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.pdb
+C:\RajeshBackup\rajeshwarp\Samples\Demo.DataAccess\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.deps.json
+C:\RajeshBackup\rajeshwarp\Samples\Demo.DataAccess\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.dll
+C:\RajeshBackup\rajeshwarp\Samples\Demo.DataAccess\Demo.Common\bin\Debug\netcoreapp3.1\Demo.Common.pdb
+C:\RajeshBackup\rajeshwarp\Samples\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.AssemblyInfoInputs.cache
+C:\RajeshBackup\rajeshwarp\Samples\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.AssemblyInfo.cs
+C:\RajeshBackup\rajeshwarp\Samples\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.csproj.CoreCompileInputs.cache
+C:\RajeshBackup\rajeshwarp\Samples\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.dll
+C:\RajeshBackup\rajeshwarp\Samples\Demo.DataAccess\Demo.Common\obj\Debug\netcoreapp3.1\Demo.Common.pdb
