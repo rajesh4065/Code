@@ -46,6 +46,11 @@ namespace Demo.Repositories.Repositories
             }
         }
 
+        /// <summary>
+        /// AddStudent
+        /// </summary>
+        /// <param name="studentDto">CreateStudentDto</param>
+        /// <returns></returns>
         public async Task<StudentDto> AddStudent(CreateStudentDto studentDto)
         {
             try
